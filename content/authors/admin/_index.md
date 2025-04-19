@@ -47,4 +47,4 @@ highlight_name: true
 website: ""
 ---
 
-Alina is a second-year student of the Faculty of Physics, Mathematics and Natural Sciences in the direction of applied computer science. 
+Alina is a third-year student of the Faculty of Physics, Mathematics and Natural Sciences in the direction of applied computer science. 
