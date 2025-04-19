@@ -1,8 +1,8 @@
----
+--
 # Display name
 title: Alina Utkina
 # Name pronunciation (optional)
-name_pronunciation: Alina Utkina
+# name_pronunciation: Alina Utkina
 
 # Full name (for SEO)
 first_name: Alina
